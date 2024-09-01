@@ -1,6 +1,6 @@
-                                                                                          # Power-BI-Visuals
+    # Power-BI-Visuals
 
-                                                                                                Welcome!
+    Welcome!
 Hey there! 👋 Welcome to my Power BI Visuals Repository! I’m thrilled to have you here. This is your go-to place for a collection of custom Power BI visuals that I’ve crafted to supercharge your data storytelling. Whether you're looking to enhance your reports with more dynamic visuals or just want to explore new ways to present your data, you're in the right spot.
 
 Getting Started
